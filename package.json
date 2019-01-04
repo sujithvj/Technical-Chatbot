@@ -1,0 +1,36 @@
+{
+  "name": "Syncfusion-ChatBot",
+  "version": "0.0.1",
+  "description": "A Syncfusion ChatBot answers Syncfusion component related queries",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "botkit": "^0.7.0",
+    "botkit-storage-mongo": "^1.0.6",
+    "debug": "^3.1.0",
+    "express": "^4.16.4",
+    "express-hbs": "^1.0.4",
+    "mongoose": "^4.13.7",
+    "node-env-file": "^0.1.8",
+    "querystring": "^0.2.0",
+    "request": "^2.88.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mariaantony-gnanasekaran/Syncfusion-ChatBot.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mariaantony-gnanasekaran/Syncfusion-ChatBot/issues"
+  },
+  "homepage": "https://github.com/mariaantony-gnanasekaran/Syncfusion-ChatBot",
+  "keywords": [
+    "syncfustion",
+    "chatbots",
+    "web chat"
+  ],
+  "license": "MIT"
+}
