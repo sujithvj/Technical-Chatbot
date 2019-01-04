@@ -1,6 +1,6 @@
-# Syncfusion ChatBot
+# Technical ChatBot
 
-A simple ChatBot which answers Syncfusion component related common queries and provide reliable solution to customer end.
+A simple ChatBot which answers component related common queries and provide reliable solution to customer end.
 
 
 ## Getting Started
